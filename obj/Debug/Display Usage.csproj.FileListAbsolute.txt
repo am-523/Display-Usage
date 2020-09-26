@@ -1,0 +1,10 @@
+D:\AW 17\Source Code Visual Studio 19\Display Usage\obj\Debug\Display Usage.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Display Usage\obj\Debug\Display_Usage.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Display Usage\obj\Debug\Display_Usage.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Display Usage\obj\Debug\Display Usage.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Display Usage\obj\Debug\Display Usage.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Display Usage\bin\Debug\Display Usage.exe.config
+D:\AW 17\Source Code Visual Studio 19\Display Usage\bin\Debug\Display Usage.exe
+D:\AW 17\Source Code Visual Studio 19\Display Usage\bin\Debug\Display Usage.pdb
+D:\AW 17\Source Code Visual Studio 19\Display Usage\obj\Debug\Display Usage.exe
+D:\AW 17\Source Code Visual Studio 19\Display Usage\obj\Debug\Display Usage.pdb
